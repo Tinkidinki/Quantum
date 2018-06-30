@@ -1,0 +1,11 @@
+/home/tinkidinki/Quantum/Bell/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache
+/home/tinkidinki/Quantum/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache
+/home/tinkidinki/Quantum/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache
+/home/tinkidinki/Quantum/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs
+/home/tinkidinki/Quantum/Bell/bin/Debug/netcoreapp2.0/Bell.deps.json
+/home/tinkidinki/Quantum/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json
+/home/tinkidinki/Quantum/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json
+/home/tinkidinki/Quantum/Bell/bin/Debug/netcoreapp2.0/Bell.dll
+/home/tinkidinki/Quantum/Bell/bin/Debug/netcoreapp2.0/Bell.pdb
+/home/tinkidinki/Quantum/Bell/obj/Debug/netcoreapp2.0/Bell.dll
+/home/tinkidinki/Quantum/Bell/obj/Debug/netcoreapp2.0/Bell.pdb

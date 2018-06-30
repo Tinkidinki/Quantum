@@ -1,0 +1,11 @@
+/home/tinkidinki/Quantum/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/home/tinkidinki/Quantum/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/home/tinkidinki/Quantum/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/home/tinkidinki/Quantum/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/home/tinkidinki/Quantum/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/home/tinkidinki/Quantum/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/home/tinkidinki/Quantum/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/home/tinkidinki/Quantum/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/home/tinkidinki/Quantum/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/home/tinkidinki/Quantum/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/home/tinkidinki/Quantum/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
