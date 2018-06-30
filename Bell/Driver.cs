@@ -9,7 +9,7 @@ namespace Bell
         {
             using (var sim = new QuantumSimulator())
             {
-                // Try initial values
+                // Try initial values 
                 Result[] initials = new Result[] { Result.Zero, Result.One };
                 foreach (Result initial in initials)
                 {
